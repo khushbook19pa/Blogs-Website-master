@@ -11,7 +11,7 @@ This project use the technologies like Nodejs, Express.js ,Nodemon, Mongoose, ma
   
 ## Authors
 
-- [Rishabh Verma](https://github.com/aryan2621)
+- [Khushboo kumari](https://github.com/khushbook19pa)
 
   ## Color Reference
 This block consist of all the important steps that has been taken.
